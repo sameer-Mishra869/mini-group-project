@@ -2,7 +2,7 @@
 here is a mini group  project of html, css, java &amp; c++ 
 
 
-java 
+JAVA
 📋 Kanban Task Board (Mini Trello Clone)
 
 > 🚀 A tiny Kanban-style task board built with plain HTML, CSS and JavaScript. Use it to add tasks and drag them between columns: To Do, In Progress, and Done.
@@ -61,7 +61,7 @@ Edge cases handled:
 
 
 
-html & css
+HTML & CSS
 
 A simple, responsive website showcasing information about the Milan-Cortina 2026 Winter Olympics.
 
@@ -117,5 +117,45 @@ Unsplash - Free images
 Olympics Official - Event information
 ⭐ If you liked this project, give it a star! ⭐
 
+
+
+
+
+C++
+
+Student Management System
+Language: C++
+Type: Console Application
+📘 Overview
+The Student Management System is a console-based application developed in C++ that manages student records efficiently. It allows users to store, retrieve, and analyze student information such as roll number, name, marks, and grades through a menu-driven interface.
+This project focuses on strengthening object-oriented programming fundamentals and data handling using arrays.
+🎯 Objectives
+To implement a structured student record system
+To apply OOP principles using classes and objects
+To practice menu-driven program design
+To perform basic data operations such as searching and averaging
+✨ Key Features
+Add Student Records
+Capture roll number, name, marks, and auto-assign grade
+Display Student Records
+View all stored student information in a readable format
+Search by Roll Number
+Retrieve individual student details using unique roll numbers
+Average Marks Calculation
+Compute the average marks of all students in the system
+Pre-loaded Sample Data
+Includes sample student records for demonstration and testing
+🚀 Scope for Enhancement
+Replace static arrays with STL vectors
+Implement file handling for data persistence
+Add update and delete functionality
+Support full names with spaces
+Refactor into multi-file OOP architecture
+Add input validation
+📚 Learning Outcomes
+Strong understanding of classes and objects
+Improved knowledge of arrays of objects
+Practical exposure to control structures
+Experience building structured C++ applications
 
 
